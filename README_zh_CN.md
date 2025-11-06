@@ -9,10 +9,11 @@
 
 **可以阅读如下语言的文档:**
 
-| Language | Link                                                                 |
+| 语言     | 链接                                                                 |
 |----------|---------------------------------------------------------------------|
 | English  | [English](https://github.com/YuzeHao2023/Awesome-MCP-Servers?tab=readme-ov-file) |
-| 中文     | [中文](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/README_zh_CN.md) |
+| 简体中文  | [简体中文](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/README_zh_CN.md) |
+| 繁体中文  | [繁体中文](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/README_zh_TW.md) |
 
 ---
 
