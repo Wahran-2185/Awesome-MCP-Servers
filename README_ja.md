@@ -4,6 +4,10 @@
 
 ---
 
+また、[MCPサーバー完全リスト](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/Full-List-of-MCP-Servers.xlsx)を提供しており、このリストはクローラーによって整理されており、約6000件のエントリーが含まれています。
+
+---
+
 ## すべてのドキュメント
 > 翻訳者募集中！[この仕様の翻訳を手伝ってくれる翻訳者を探しています](https://github.com/YuzeHao2023/Awesome-MCP-Servers/issues/1)！
 
