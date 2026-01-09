@@ -652,3 +652,22 @@ Frameworks and scaffolding for building MCP servers:
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
 </div>
+
+## Contributors
+
+<a href="https://github.com/YuzeHao2023/Awesome-MCP-Servers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=YuzeHao2023/Awesome-MCP-Servers" />
+</a>
+
+If this project is helpful for you, please cite:
+
+```bib
+@misc{hao2025mcp,
+      title={Awesome-MCP-Servers}, 
+      author={All Awesome-MCP-Servers Contributors},
+      year={2025},
+      publisher = {GitHub},
+      journal = {GitHub repository},
+      howpublished = {\url{https://github.com/YuzeHao2023/Awesome-MCP-Servers}},
+}
+```
